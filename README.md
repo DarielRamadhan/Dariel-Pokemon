@@ -1,6 +1,6 @@
 # Exploring Pokemon Diversity and Strategic Insights
 
-The primary goal of this project is to delve into the world of Pokemon using data analysis techniques. Leveraging a comprehensive dataset encompassing various attributes of Pokemon, we aim to uncover patterns, trends, and provide actionable recommendations for Pokemon trainers.
+The primary goal of this project is to delve into the world of Pokemon using data analysis techniques. Leveraging a comprehensive dataset encompassing various attributes of Pokemon, i'm aim to uncover patterns, trends, and provide actionable recommendations for Pokemon trainers.
 
 ## Key Objectives
 
